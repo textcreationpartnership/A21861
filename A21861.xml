@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation for the prices of wines</title>
+            <title>Proclamations. 1589-12-18</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21861</idno>
+            <idno type="STC">STC 8189</idno>
+            <idno type="STC">ESTC S115414</idno>
+            <idno type="EEBO-CITATION">99850633</idno>
+            <idno type="PROQUEST">99850633</idno>
+            <idno type="VID">15848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15848)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation for the prices of wines</title>
+                  <title>Proclamations. 1589-12-18</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1589]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wine --  Prices --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15848:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation for the prices of Wines.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here it is ordained and prouided by a Statute, made and eſtabliſhed in the Parliament holden at Weſtminſter the eight day of Iune, in the xxviii. yeere of the raigne of the Queens Maieſties dearly beloued Father, of famous me<g ref="char:EOLhyphen"/>morie, King Henry the eight, that the prices of all kinde of Wines (that is to ſay) of the Tunne, Butt, Pype, Punchion, Hogſhead, Tyerſe, Barrel &amp; Rund<g ref="char:EOLhyphen"/>let, when it ſhould be ſold in groſſe, ſhould be limited and declared by the Lord Chauncelour of England, Lorde Treaſourer of England, Lord Preſident of the ſaid Kings moſt honourable priuie counſel, Lord priuy Seale, &amp; the two chiefe Iuſtices of either bench, or fiue, foure, or three of them, &amp; that the ſame ſhoulde bee ſolde according to the ſame prices ſo by them ſet and taxed, vpon payne and penalty contayned in the ſayd Act: Foraſmuch as the Lord Chancelour of England, Lord Treaſourer of England, and the two Lord chiefe Iuſtices, for diuers conſiderations them mouing, and according to the effect and meaning of the ſayde <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tatute and Acte, haue in writing by their deliberate aduiſes, vpon conference had with ſundry perſons there<g ref="char:EOLhyphen"/>to requiſite, taxed, limitted, aſſigned and appoynted the prices of Gaſcoigne and French wines to be ſold with<g ref="char:EOLhyphen"/>in this her highneſſe Realme for this yeere following (that is to ſay) Euery Tunne of the beſt Gaſcoigne and French wines to be ſolde (the ſeller bearing all the charges due and payable to her Maieſty in her Cuſtome houſe) after the rate and price of xv. li. ſterling the Tunne and not aboue: The buyer bearing all the ſayd char<g ref="char:EOLhyphen"/>ges, after the price and rate of xii. li. vi. s. viii. d. ſterling the Tunne, and not aboue. And euery Pype, Butte, Hogſhead, Tyerſe, Barrel, Rundlet, and other veſſels of the ſame ſeuerall wines to be ſold in groſſe after their quantities according to the ſame rates, and not aboue. And euery Tunne of Rochel and other ſmall &amp; thinne wines to be ſolde (the ſeller bearing all the charges due and payable to her Maieſtie in her Cuſtome houſe) <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter the price and rate of xiii. li. ſterling the Tunne, and not aboue. And the buyer bearing the ſaid charges, at x. li. vi. s. viii, d. ſterling the Tunne, and not aboue. And euery Butte, Pipe, Hogſhead, Tyerſe, Barrell, Rund<g ref="char:EOLhyphen"/>let, and other veſſels of the ſame ſeueral wines to be ſold in groſſe after their quantities, according to the ſame rates, and not aboue.</p>
+            <p>The Queenes moſt excellent Maieſtie therefore ſtraightly chargeth and commandeth all and ſingular her louing Subiects and others putting any maner Gaſcoigne, French, Rochel, or other ſmall or thinne wines to ſale within this her highneſſe Realme, that they, ne any of them in any maner of wiſe by any craft, couin, to priuate agreement ſhall ſell any Gaſcoigne, French, Rochel, or other ſmall or thinne wines, otherwiſe then is aboue limitted, vpon paine to forfait and pay ſuch penaltie as is conteined and expreſſed in the ſaid ſta<g ref="char:EOLhyphen"/>tute, or in any other ſtatute made or ordeined for the ſame. And moreouer her highnes pleaſure and comman<g ref="char:EOLhyphen"/>dement is, that all and ſingular Maiors, Sheriffes, Bayliffes, Conſtables and other officers to whom it ap<g ref="char:EOLhyphen"/>perteineth, that they, and euery of them with diligence, cauſe and ſee that this her Proclamation be put in due execution after the tenour of the ſame, and alſo according to an other Acte of Parliament eſtabliſhed in the<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Parliament aboue rehearſed, againſt ſuch as will refuſe to ſell their wines at prices taxed as is aforeſayde, as they will anſwere thereto at their perils.</p>
+            <closer>
+               <dateline>Giuen at our mannor of Richmond <date>the eighteenth day of Decem<g ref="char:EOLhyphen"/>ber in the xxxii. yeere of our raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher Barker, Printer to the Queenes <hi>moſt excellent Maieſtie.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
